@@ -1,1 +1,1 @@
-[('gitshell_master.py\ngitshell_slave.py\nt\npython\n', '')]
+[('', "/bin/bash: line 1: syntax error near unexpected token `'gitshell_master.py\\ngitshell_slave.py\\nt\\npython\\n','\n/bin/bash: line 1: `[('gitshell_master.py\\ngitshell_slave.py\\nt\\npython\\n', '')]'\n")]

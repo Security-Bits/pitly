@@ -1,1 +1,1 @@
-ls;cd ..;ls
+[('gitshell_master.py\ngitshell_slave.py\nt\npython\n', '')]
